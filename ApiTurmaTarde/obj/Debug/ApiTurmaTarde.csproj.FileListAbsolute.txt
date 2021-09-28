@@ -1,0 +1,17 @@
+C:\Users\victor.schmitt\source\repos\ApiTurmaTarde\bin\Debug\ApiTurmaTarde.exe.config
+C:\Users\victor.schmitt\source\repos\ApiTurmaTarde\bin\Debug\ApiTurmaTarde.exe
+C:\Users\victor.schmitt\source\repos\ApiTurmaTarde\bin\Debug\ApiTurmaTarde.pdb
+C:\Users\victor.schmitt\source\repos\ApiTurmaTarde\obj\Debug\ApiTurmaTarde.csproj.AssemblyReference.cache
+C:\Users\victor.schmitt\source\repos\ApiTurmaTarde\obj\Debug\ApiTurmaTarde.Form1.resources
+C:\Users\victor.schmitt\source\repos\ApiTurmaTarde\obj\Debug\ApiTurmaTarde.Properties.Resources.resources
+C:\Users\victor.schmitt\source\repos\ApiTurmaTarde\obj\Debug\ApiTurmaTarde.csproj.GenerateResource.cache
+C:\Users\victor.schmitt\source\repos\ApiTurmaTarde\obj\Debug\ApiTurmaTarde.csproj.CoreCompileInputs.cache
+C:\Users\victor.schmitt\source\repos\ApiTurmaTarde\obj\Debug\ApiTurmaTarde.exe
+C:\Users\victor.schmitt\source\repos\ApiTurmaTarde\obj\Debug\ApiTurmaTarde.pdb
+C:\Users\victor.schmitt\source\repos\ApiTurmaTarde\bin\Debug\Cep.dll
+C:\Users\victor.schmitt\source\repos\ApiTurmaTarde\bin\Debug\HtmlAgilityPack.dll
+C:\Users\victor.schmitt\source\repos\ApiTurmaTarde\bin\Debug\Cep.pdb
+C:\Users\victor.schmitt\source\repos\ApiTurmaTarde\bin\Debug\Cep.xml
+C:\Users\victor.schmitt\source\repos\ApiTurmaTarde\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\victor.schmitt\source\repos\ApiTurmaTarde\bin\Debug\HtmlAgilityPack.xml
+C:\Users\victor.schmitt\source\repos\ApiTurmaTarde\obj\Debug\ApiTurmaTarde.csproj.CopyComplete
